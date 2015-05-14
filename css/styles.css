@@ -2,8 +2,13 @@
 YOUR STYLES
 *******************/
 
+body {
+	padding: 10px;
+}
 
-
+video {
+	border: 10px solid red;
+}
 
 /********************
 MEDIA QUERIES
